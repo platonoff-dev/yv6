@@ -6,7 +6,7 @@ My solutions for [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) xv6 labs, base
 
 | Project | Status |
 |---------|--------|
-| initial-xv6 | [#1](https://github.com/platonoff-dev/yv6/issues/1) |
+| initial-xv6 | #1 |
 | initial-xv6-tracer | [#2](https://github.com/platonoff-dev/yv6/issues/2) |
 | scheduling-xv6-lottery | [#3](https://github.com/platonoff-dev/yv6/issues/3) |
 | vm-xv6-intro | [#4](https://github.com/platonoff-dev/yv6/issues/4) |
